@@ -51,6 +51,9 @@
 }
 @media (min-width: 660px) {
     .footer {
+        width: 95%;
+        max-width: 900px;
         height: 100px;
+        padding: 10px;
     }
-  }
+}
